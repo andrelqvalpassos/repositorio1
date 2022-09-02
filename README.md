@@ -1,2 +1,4 @@
 # repositorio1
- Olá, Mundo
+ Primeiro passos com HTML
+
+ Curriculo criado na aula 2
