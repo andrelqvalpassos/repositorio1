@@ -10,7 +10,7 @@ h2{
 }
 
 .cor{
-    color: blue;
+    color: yellow;
 }
 
 table,th,td{
@@ -18,7 +18,7 @@ table,th,td{
 }
 
 body{
-    background-color: darkgrey;
+    background-color:white;
 }
 
 hr{
@@ -27,4 +27,13 @@ hr{
 
 img{
     border-radius: 55%;
+}
+
+h2.cor{
+    color:#D800A6
+}
+
+ul.fonte{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
